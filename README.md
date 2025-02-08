@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1291467764174684222)](https://discord.com/users/1291467764174684222)
 <h2 align="left">👋 Hello! I’m Syntax an experienced Python developer<br>🔧 Specializing in creating Discord bots and codez<br>⚡ I use Python and JavaScript.<br>🩸 I build self-bots and nukers and many other toolz</h2>
 
 ###
